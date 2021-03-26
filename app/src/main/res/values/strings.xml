@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Peso Ideal IMC</string>
+    <string name="calculadora_imc">CALCULADORA IMC</string>
+    <string name="altura_title">ALTURA:</string>
+    <string name="ex_1_80_m">(ex: 1.80) m</string>
+    <string name="peso_title">PESO:</string>
+    <string name="calcular_desc">CALCULAR</string>
+    <string name="ex_65_kg">(ex: 65) kg</string>
+</resources>
